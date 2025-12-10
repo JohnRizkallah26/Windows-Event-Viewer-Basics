@@ -3,6 +3,7 @@
 ## 📖 Overview
 This lab provides a straightforward introduction to using **Windows Event Viewer** for security log analysis.  
 The goal is to learn how to navigate Event Viewer, filter logs by specific Event IDs, and interpret security-related events.
+
 **Screenshots located in Screenshots Folder in the correct order**
 
 ---
