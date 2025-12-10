@@ -38,7 +38,7 @@ The goal is to learn how to navigate Event Viewer, filter logs by specific Event
 ---
 
 ## 🎯 Purpose
-By completing this lab, you will:
+By completing this lab, we will:
 - Understand how to navigate **Windows Event Viewer**.
 - Learn to filter logs by **specific Event IDs**.
 - Gain insight into common security events such as failed logins, password policy changes, and group membership modifications.
@@ -52,5 +52,5 @@ By completing this lab, you will:
 
 ---
 
-- Keep screenshots in a dedicated folder (e.g., `/images`) for better organization.
+
 
